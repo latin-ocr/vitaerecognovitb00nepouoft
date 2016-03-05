@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaerecognovitb00nepouoft_0007.png"; bbox 0 0 1718 2746; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 22 133 1469 220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 22 133 1469 220">
+     <span class='ocr_line' id='line_1_1' title="bbox 22 133 1469 220; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 22 188 32 199; x_wconf 79' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 146 133 778 220; x_wconf 89' lang='lat' dir='ltr'>CORNELI</span> <span class='ocrx_word' id='word_1_3' title='bbox 866 133 1469 220; x_wconf 84' lang='lat' dir='ltr'>NEPOTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 668 397 960 460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 668 397 960 460">
+     <span class='ocr_line' id='line_1_2' title="bbox 668 397 960 460; baseline -0.01 0"><span class='ocrx_word' id='word_1_4' title='bbox 668 397 960 460; x_wconf 90' lang='lat' dir='ltr'>VITAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 683 764 954 793">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 683 764 954 793">
+     <span class='ocr_line' id='line_1_3' title="bbox 683 764 954 793; baseline 0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 683 764 954 793; x_wconf 84' lang='lat' dir='ltr'>OOOOOOOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 568 959 1072 1003">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 568 959 1072 1003">
+     <span class='ocr_line' id='line_1_4' title="bbox 568 959 1072 1003; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 568 960 615 1002; x_wconf 88' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 648 962 702 1003; x_wconf 92' lang='lat' dir='ltr'><strong>O.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 735 959 1072 1003; x_wconf 90' lang='lat' dir='ltr'>WINSTEDT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 206 2213 1342 2378">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 206 2213 1342 2378">
+     <span class='ocr_line' id='line_1_5' title="bbox 692 2213 965 2254; baseline -0.011 0"><span class='ocrx_word' id='word_1_9' title='bbox 692 2215 729 2254; x_wconf 95' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_10' title='bbox 745 2216 783 2253; x_wconf 95' lang='lat' dir='ltr'><strong>X</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 799 2214 836 2254; x_wconf 95' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_12' title='bbox 853 2214 891 2253; x_wconf 96' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_13' title='bbox 909 2214 928 2252; x_wconf 97' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_14' title='bbox 945 2213 965 2251; x_wconf 94' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 206 2319 1342 2378; baseline -0.011 -8"><span class='ocrx_word' id='word_1_15' title='bbox 206 2376 208 2378; x_wconf 46' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 326 2330 360 2369; x_wconf 89' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_17' title='bbox 388 2323 814 2366; x_wconf 85' lang='lat' dir='ltr'>TYPOGRAPHEO</span> <span class='ocrx_word' id='word_1_18' title='bbox 842 2319 1342 2363; x_wconf 91' lang='lat' dir='ltr'>CLARENDONIANO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
